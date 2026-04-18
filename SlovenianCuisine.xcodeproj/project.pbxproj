@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		A836D6162CD7DB2100724258 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A836D5FD2CD7DB1E00724258 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A836D6042CD7DB1E00724258;
+			remoteInfo = SlovenianCuisine;
+		};
+		A836D6202CD7DB2100724258 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A836D5FD2CD7DB1E00724258 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A836D6042CD7DB1E00724258;
+			remoteInfo = SlovenianCuisine;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A836D6052CD7DB1E00724258 /* SlovenianCuisine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlovenianCuisine.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A836D6152CD7DB2100724258 /* SlovenianCuisineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlovenianCuisineTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A836D61F2CD7DB2100724258 /* SlovenianCuisineUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlovenianCuisineUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		A836D6072CD7DB1E00724258 /* SlovenianCuisine */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SlovenianCuisine;
+			sourceTree = "<group>";
+		};
+		A836D6182CD7DB2100724258 /* SlovenianCuisineTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SlovenianCuisineTests;
+			sourceTree = "<group>";
+		};
+		A836D6222CD7DB2100724258 /* SlovenianCuisineUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SlovenianCuisineUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A836D6022CD7DB1E00724258 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A836D6122CD7DB2100724258 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A836D61C2CD7DB2100724258 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A836D5FC2CD7DB1E00724258 = {
+			isa = PBXGroup;
+			children = (
+				A836D6072CD7DB1E00724258 /* SlovenianCuisine */,
+				A836D6182CD7DB2100724258 /* SlovenianCuisineTests */,
+				A836D6222CD7DB2100724258 /* SlovenianCuisineUITests */,
+				A836D6062CD7DB1E00724258 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A836D6062CD7DB1E00724258 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A836D6052CD7DB1E00724258 /* SlovenianCuisine.app */,
+				A836D6152CD7DB2100724258 /* SlovenianCuisineTests.xctest */,
+				A836D61F2CD7DB2100724258 /* SlovenianCuisineUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A836D6042CD7DB1E00724258 /* SlovenianCuisine */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A836D6292CD7DB2100724258 /* Build configuration list for PBXNativeTarget "SlovenianCuisine" */;
+			buildPhases = (
+				A836D6012CD7DB1E00724258 /* Sources */,
+				A836D6022CD7DB1E00724258 /* Frameworks */,
+				A836D6032CD7DB1E00724258 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				A836D6072CD7DB1E00724258 /* SlovenianCuisine */,
+			);
+			name = SlovenianCuisine;
+			packageProductDependencies = (
+			);
+			productName = SlovenianCuisine;
+			productReference = A836D6052CD7DB1E00724258 /* SlovenianCuisine.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A836D6142CD7DB2100724258 /* SlovenianCuisineTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A836D62C2CD7DB2100724258 /* Build configuration list for PBXNativeTarget "SlovenianCuisineTests" */;
+			buildPhases = (
+				A836D6112CD7DB2100724258 /* Sources */,
+				A836D6122CD7DB2100724258 /* Frameworks */,
+				A836D6132CD7DB2100724258 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A836D6172CD7DB2100724258 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A836D6182CD7DB2100724258 /* SlovenianCuisineTests */,
+			);
+			name = SlovenianCuisineTests;
+			packageProductDependencies = (
+			);
+			productName = SlovenianCuisineTests;
+			productReference = A836D6152CD7DB2100724258 /* SlovenianCuisineTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A836D61E2CD7DB2100724258 /* SlovenianCuisineUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A836D62F2CD7DB2100724258 /* Build configuration list for PBXNativeTarget "SlovenianCuisineUITests" */;
+			buildPhases = (
+				A836D61B2CD7DB2100724258 /* Sources */,
+				A836D61C2CD7DB2100724258 /* Frameworks */,
+				A836D61D2CD7DB2100724258 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A836D6212CD7DB2100724258 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A836D6222CD7DB2100724258 /* SlovenianCuisineUITests */,
+			);
+			name = SlovenianCuisineUITests;
+			packageProductDependencies = (
+			);
+			productName = SlovenianCuisineUITests;
+			productReference = A836D61F2CD7DB2100724258 /* SlovenianCuisineUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A836D5FD2CD7DB1E00724258 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					A836D6042CD7DB1E00724258 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					A836D6142CD7DB2100724258 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = A836D6042CD7DB1E00724258;
+					};
+					A836D61E2CD7DB2100724258 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = A836D6042CD7DB1E00724258;
+					};
+				};
+			};
+			buildConfigurationList = A836D6002CD7DB1E00724258 /* Build configuration list for PBXProject "SlovenianCuisine" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A836D5FC2CD7DB1E00724258;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A836D6062CD7DB1E00724258 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A836D6042CD7DB1E00724258 /* SlovenianCuisine */,
+				A836D6142CD7DB2100724258 /* SlovenianCuisineTests */,
+				A836D61E2CD7DB2100724258 /* SlovenianCuisineUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A836D6032CD7DB1E00724258 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A836D6132CD7DB2100724258 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A836D61D2CD7DB2100724258 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A836D6012CD7DB1E00724258 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A836D6112CD7DB2100724258 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A836D61B2CD7DB2100724258 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A836D6172CD7DB2100724258 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A836D6042CD7DB1E00724258 /* SlovenianCuisine */;
+			targetProxy = A836D6162CD7DB2100724258 /* PBXContainerItemProxy */;
+		};
+		A836D6212CD7DB2100724258 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A836D6042CD7DB1E00724258 /* SlovenianCuisine */;
+			targetProxy = A836D6202CD7DB2100724258 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A836D6272CD7DB2100724258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A836D6282CD7DB2100724258 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A836D62A2CD7DB2100724258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SlovenianCuisine/Preview Content\"";
+				DEVELOPMENT_TEAM = QCH4Y58Q72;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.handandeniz.SlovenianCuisine;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A836D62B2CD7DB2100724258 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SlovenianCuisine/Preview Content\"";
+				DEVELOPMENT_TEAM = QCH4Y58Q72;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.handandeniz.SlovenianCuisine;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A836D62D2CD7DB2100724258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QCH4Y58Q72;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.handandeniz.SlovenianCuisineTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SlovenianCuisine.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SlovenianCuisine";
+			};
+			name = Debug;
+		};
+		A836D62E2CD7DB2100724258 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QCH4Y58Q72;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.handandeniz.SlovenianCuisineTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SlovenianCuisine.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SlovenianCuisine";
+			};
+			name = Release;
+		};
+		A836D6302CD7DB2100724258 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QCH4Y58Q72;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.handandeniz.SlovenianCuisineUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SlovenianCuisine;
+			};
+			name = Debug;
+		};
+		A836D6312CD7DB2100724258 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QCH4Y58Q72;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.handandeniz.SlovenianCuisineUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SlovenianCuisine;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A836D6002CD7DB1E00724258 /* Build configuration list for PBXProject "SlovenianCuisine" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A836D6272CD7DB2100724258 /* Debug */,
+				A836D6282CD7DB2100724258 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A836D6292CD7DB2100724258 /* Build configuration list for PBXNativeTarget "SlovenianCuisine" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A836D62A2CD7DB2100724258 /* Debug */,
+				A836D62B2CD7DB2100724258 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A836D62C2CD7DB2100724258 /* Build configuration list for PBXNativeTarget "SlovenianCuisineTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A836D62D2CD7DB2100724258 /* Debug */,
+				A836D62E2CD7DB2100724258 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A836D62F2CD7DB2100724258 /* Build configuration list for PBXNativeTarget "SlovenianCuisineUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A836D6302CD7DB2100724258 /* Debug */,
+				A836D6312CD7DB2100724258 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A836D5FD2CD7DB1E00724258 /* Project object */;
+}
