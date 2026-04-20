@@ -1,4 +1,4 @@
-<img width="3464" height="3464" alt="sl" src="https://github.com/user-attachments/assets/4cf7422b-a7e6-4f83-99c0-c45d6c7116e7" />Slovenian Digital Menu: An iOS app that lists traditional Slovenian food and drinks. It helps users discover authentic dishes and view their prices in digital format.
+Slovenian Digital Menu: An iOS app that lists traditional Slovenian food and drinks. It helps users discover authentic dishes and view their prices in digital format.
 
 Key Features:
 A List - Browse through a variety of Slovenian meals and beverages.
