@@ -14,4 +14,4 @@ Framework - SwiftUI
 Architecture - MVVM (Model-View-ViewModel) pattern is commonly used with SwiftUI.
 
 
-<img width="3464" height="3464" alt="sl" src="https://github.com/user-attachments/assets/423a6f69-863a-49e5-9429-5b90a7edde5a" />
+<img src="https://github.com/user-attachments/assets/423a6f69-863a-49e5-9429-5b90a7edde5a" width="250" />
